@@ -24,13 +24,13 @@
     <string name="pro">Premium</string>
 
     //REALADDS
-    <string name="appid" translatable="false">ca-app-pub-8946455145480386~7009597066</string>
-    <string name="bannerAds" translatable="false">ca-app-pub-8946455145480386/3165296763</string>
-    <string name="interstatialAds" translatable="false">ca-app-pub-8946455145480386/4699128495</string>
+<!--    <string name="appid" translatable="false">ca-app-pub-8946455145480386~7009597066</string>-->
+<!--    <string name="bannerAds" translatable="false">ca-app-pub-8946455145480386/3165296763</string>-->
+<!--    <string name="interstatialAds" translatable="false">ca-app-pub-8946455145480386/4699128495</string>-->
 
     //TESTADDS
-<!--    <string name="appid" translatable="false">ca-app-pub-3940256099942544~3347511713</string>-->
-<!--    <string name="bannerAds" translatable="false">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="interstatialAds" translatable="false">ca-app-pub-3940256099942544/1033173712</string>-->
+    <string name="appid" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="bannerAds" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstatialAds" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
 
 </resources>
